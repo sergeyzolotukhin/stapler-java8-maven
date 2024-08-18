@@ -17,3 +17,8 @@ Building
 
 Run `mvn package` to build a war, and run `mvn jetty:run` to run this application
 in place on localhost:8080.
+
+
+URLs
+--------
+https://github.com/jenkinsci/stapler
